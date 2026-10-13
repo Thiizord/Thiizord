@@ -11,7 +11,7 @@
 </a>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=0D0D12&color=0D0D12" alt="SYSTEM ONLINE"/>
-<img src="https://img.shields.io/badge/BASE-CURITIBA%20PR-9D4EDD?style=for-the-badge&labelColor=0D0D12&color=0D0D12" alt="Base: Curitiba PR"/>
+<img src="https://img.shields.io/badge/BASE-MARING%C3%81%20PR-9D4EDD?style=for-the-badge&labelColor=0D0D12&color=0D0D12" alt="Base: Maringá PR"/>
 <img src="https://komarev.com/ghpvc/?username=Thiizord&color=9D4EDD&style=for-the-badge&label=VISITORS&labelColor=0D0D12" alt="Profile views"/>
 
 </div>
@@ -21,7 +21,7 @@
 ```console
 thiizord@arcade:~$ whoami
 > Player detected: Thiago "Thiizord" Barbosa
-> Location......: Curitiba, PR — Brazil
+> Location......: Maringá, PR — Brazil
 
 thiizord@arcade:~$ cat profile.txt
 > Developer mode activated
@@ -40,7 +40,7 @@ thiizord@arcade:~$ git status
 | ----------- | ------------------------------------------------------------ |
 | **PLAYER**  | Thiago "THIIZORD" Barbosa                                    |
 | **CLASS**   | Code Explorer — estudando programação e subindo de nível     |
-| **BASE**    | Curitiba, PR 🇧🇷                                               |
+| **BASE**    | Maringá, PR 🇧🇷                                                |
 | **QUEST**   | Aprender desenvolvimento construindo projetos reais          |
 | **LOADOUT** | `JavaScript` `Python` `HTML` `CSS` `Kotlin`                  |
 | **GUILD**   | [github.com/Thiizord](https://github.com/Thiizord)           |
