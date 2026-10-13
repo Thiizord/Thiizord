@@ -26,7 +26,7 @@ thiizord@arcade:~$ whoami
 thiizord@arcade:~$ cat profile.txt
 > Developer mode activated
 > Studying code, building stuff and leveling up...
-> Stack loaded: JavaScript · Python · HTML · CSS
+> Stack loaded: JavaScript · Python · HTML · CSS · Kotlin
 
 thiizord@arcade:~$ git status
 > On branch main — ready to commit new adventures
@@ -42,7 +42,7 @@ thiizord@arcade:~$ git status
 | **CLASS**   | Code Explorer — estudando programação e subindo de nível     |
 | **BASE**    | Curitiba, PR 🇧🇷                                               |
 | **QUEST**   | Aprender desenvolvimento construindo projetos reais          |
-| **LOADOUT** | `JavaScript` `Python` `HTML` `CSS`                           |
+| **LOADOUT** | `JavaScript` `Python` `HTML` `CSS` `Kotlin`                  |
 | **GUILD**   | [github.com/Thiizord](https://github.com/Thiizord)           |
 
 ---
@@ -51,7 +51,7 @@ thiizord@arcade:~$ git status
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,html,css,git,github,vscode&theme=dark" alt="Tech stack: JavaScript, Python, HTML, CSS, Git, GitHub, VS Code"/>
+    <img src="https://skillicons.dev/icons?i=js,py,html,css,kotlin,git,github,vscode&theme=dark" alt="Tech stack: JavaScript, Python, HTML, CSS, Kotlin, Git, GitHub, VS Code"/>
   </a>
 </div>
 
@@ -91,6 +91,8 @@ thiizord@arcade:~$ git status
 </div>
 
 > 🎯 **[Planner-guild-run](https://github.com/Thiizord/Planner-guild-run)** — Planner feito para o game **GuildRun**, para estudo de códigos. `JavaScript` `CSS` `Python` `HTML`
+>
+> 🤝 **[marcelopinotti/hemonorte](https://github.com/marcelopinotti/hemonorte)** — *Co-op quest*: contribuições como colaborador (PRs mergeados na branch `develop`). `Kotlin`
 
 ---
 
