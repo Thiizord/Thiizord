@@ -12,7 +12,6 @@
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=0D0D12&color=0D0D12" alt="SYSTEM ONLINE"/>
 <img src="https://img.shields.io/badge/BASE-MARING%C3%81%20PR-9D4EDD?style=for-the-badge&labelColor=0D0D12&color=0D0D12" alt="Base: Maringá PR"/>
-<img src="https://komarev.com/ghpvc/?username=Thiizord&color=9D4EDD&style=for-the-badge&label=VISITORS&labelColor=0D0D12" alt="Profile views"/>
 
 </div>
 
