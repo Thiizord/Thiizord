@@ -7,10 +7,11 @@
 <img src="assets/cockpit-banner.jpg" alt="Pixel art cockpit — THIIZORD command deck" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=39FF14&background=0D0D1200&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%24+INIT+THIIZORD.EXE+...;%3E+Player+detected%3A+THIAGO+%22THIIZORD%22+BARBOSA;%3E+Loading+code+...+coffee+...+arcade+mode_%3F" alt="Typing SVG — boot sequence THIIZORD.EXE"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=39FF14&background=0D0D1200&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%24+INIT+THIIZORD.EXE+...;%3E+Player+detected%3A+THIAGO+%22THIIZORD%22+BARBOSA;%3E+Class+loading%3A+QA+ENGINEER+..._%3F" alt="Typing SVG — boot sequence THIIZORD.EXE"/>
 </a>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=0D0D12&color=0D0D12" alt="SYSTEM ONLINE"/>
+<img src="https://img.shields.io/badge/CLASS-QA%20ENGINEER-00E5FF?style=for-the-badge&labelColor=0D0D12" alt="Class: QA Engineer"/>
 <img src="https://img.shields.io/badge/BASE-MARING%C3%81%20PR-9D4EDD?style=for-the-badge&labelColor=0D0D12&color=0D0D12" alt="Base: Maringá PR"/>
 
 </div>
@@ -23,9 +24,14 @@ thiizord@arcade:~$ whoami
 > Location......: Maringá, PR — Brazil
 
 thiizord@arcade:~$ cat profile.txt
-> Developer mode activated
-> Studying code, building stuff and leveling up...
+> QA mode activated
+> Becoming a QA Engineer — testing code and leveling up
 > Stack loaded: JavaScript · Python · HTML · CSS · Kotlin
+
+thiizord@arcade:~$ ./run_tests.sh
+> [PASS] player_profile ... OK
+> [PASS] quest_log ...... OK
+> 0 bugs found... for now
 
 thiizord@arcade:~$ git status
 > On branch main — ready to commit new adventures
@@ -38,9 +44,10 @@ thiizord@arcade:~$ git status
 | STAT        | VALUE                                                        |
 | ----------- | ------------------------------------------------------------ |
 | **PLAYER**  | Thiago "THIIZORD" Barbosa                                    |
-| **CLASS**   | Code Explorer — estudando programação e subindo de nível     |
+| **CLASS**   | QA — Engenheiro/Analista QA em desenvolvimento               |
 | **BASE**    | Maringá, PR 🇧🇷                                                |
 | **QUEST**   | Aprender desenvolvimento construindo projetos reais          |
+| **NEXT LVL**| Tornar-se Engenheiro de QA — caçando bugs em projetos reais  |
 | **LOADOUT** | `JavaScript` `Python` `HTML` `CSS` `Kotlin`                  |
 | **GUILD**   | [github.com/Thiizord](https://github.com/Thiizord)           |
 
@@ -93,6 +100,12 @@ thiizord@arcade:~$ git status
   <a href="https://github.com/Thiizord/Repo-Landingpage-Viviane">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiizord&repo=Repo-Landingpage-Viviane&hide_border=true&bg_color=0D0D12&title_color=00E5FF&icon_color=FF2E88&text_color=E6E6E6" alt="Quest: Repo-Landingpage-Viviane"/>
   </a>
+  <a href="https://github.com/Thiizord/repo-pizzaria">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiizord&repo=repo-pizzaria&hide_border=true&bg_color=0D0D12&title_color=00E5FF&icon_color=FF2E88&text_color=E6E6E6" alt="Quest: repo-pizzaria"/>
+  </a>
+  <a href="https://github.com/Thiizord/repo-sealworld">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiizord&repo=repo-sealworld&hide_border=true&bg_color=0D0D12&title_color=00E5FF&icon_color=FF2E88&text_color=E6E6E6" alt="Quest: repo-sealworld"/>
+  </a>
 </div>
 
 > 🎯 **[Planner-guild-run](https://github.com/Thiizord/Planner-guild-run)** — Planner feito para o game **GuildRun**, para estudo de códigos. `JavaScript` `CSS` `Python` `HTML`
@@ -101,7 +114,11 @@ thiizord@arcade:~$ git status
 >
 > 🌐 **[Repo-Landingpage-Viviane](https://github.com/Thiizord/Repo-Landingpage-Viviane)** — Landing page front-end. `CSS` `HTML` `JavaScript`
 >
-> 🤝 **[marcelopinotti/hemonorte](https://github.com/marcelopinotti/hemonorte)** — *Co-op quest*: contribuições como colaborador (PRs mergeados na branch `develop`). `Kotlin`
+> 🍕 **[repo-pizzaria](https://github.com/Thiizord/repo-pizzaria)** — Website front-end de pizzaria. `HTML` `CSS`
+>
+> 🦭 **[repo-sealworld](https://github.com/Thiizord/repo-sealworld)** — Website front-end. `HTML` `CSS`
+>
+> 🤝 **[marcelopinotti/hemonorte](https://github.com/marcelopinotti/hemonorte)** — *Co-op quest*: colaborador no time — rodadas de QA (branches `qa/*`) e PRs para `develop`. `Kotlin`
 
 ---
 
