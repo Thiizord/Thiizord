@@ -27,6 +27,7 @@ thiizord@arcade:~$ cat profile.txt
 > QA mode activated
 > Becoming a QA Engineer — testing code and leveling up
 > Stack loaded: JavaScript · Python · HTML · CSS · Kotlin
+> QA kit loaded: Playwright · Cypress · JUnit · JaCoCo
 
 thiizord@arcade:~$ ./run_tests.sh
 > [PASS] player_profile ... OK
@@ -49,6 +50,7 @@ thiizord@arcade:~$ git status
 | **QUEST**   | Aprender desenvolvimento construindo projetos reais          |
 | **NEXT LVL**| Tornar-se Engenheiro de QA — caçando bugs em projetos reais  |
 | **LOADOUT** | `JavaScript` `Python` `HTML` `CSS` `Kotlin`                  |
+| **QA KIT**  | `Playwright` `Cypress` `JUnit` `JaCoCo`                      |
 | **GUILD**   | [github.com/Thiizord](https://github.com/Thiizord)           |
 
 ---
@@ -58,6 +60,23 @@ thiizord@arcade:~$ git status
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,html,css,kotlin,git,github,vscode&theme=dark" alt="Tech stack: JavaScript, Python, HTML, CSS, Kotlin, Git, GitHub, VS Code"/>
+  </a>
+</div>
+
+### 🧪 QA TOOLKIT
+
+<div align="center">
+  <a href="https://playwright.dev/">
+    <img src="https://img.shields.io/badge/Playwright-E2E-00E5FF?style=for-the-badge&labelColor=0D0D12" alt="Playwright — testes E2E"/>
+  </a>
+  <a href="https://www.cypress.io/">
+    <img src="https://img.shields.io/badge/Cypress-E2E-39FF14?style=for-the-badge&logo=cypress&logoColor=white&labelColor=0D0D12" alt="Cypress — testes E2E"/>
+  </a>
+  <a href="https://junit.org/junit5/">
+    <img src="https://img.shields.io/badge/JUnit-UNIT%20TESTS-9D4EDD?style=for-the-badge&labelColor=0D0D12" alt="JUnit — testes unitários"/>
+  </a>
+  <a href="https://www.jacoco.org/jacoco/">
+    <img src="https://img.shields.io/badge/JaCoCo-COVERAGE-FF2E88?style=for-the-badge&labelColor=0D0D12" alt="JaCoCo — cobertura de código"/>
   </a>
 </div>
 
