@@ -84,6 +84,24 @@ thiizord@arcade:~$ git status
 
 ## 📊 STATS SCREEN
 
+> Os cards dinâmicos abaixo dependem de serviços externos de terceiros. Se uma imagem não carregar, a tabela mantém os dados úteis sem dependência externa.
+
+| STAT | VALOR |
+|------|-------|
+| **Repositórios públicos** | 8 |
+| **Seguidores** | 2 |
+| **Seguindo** | 4 |
+| **Desde** | Agosto de 2021 |
+| **Base** | Maringá, PR |
+
+### Linguagens usadas (repositórios próprios e co-ops)
+`JavaScript` `Python` `HTML` `CSS` `Kotlin` `TypeScript` `PHP` `C++` `C#` `PowerShell` `Shell` `Dockerfile`
+
+> Dados verificados via API pública do GitHub. Nenhum valor é inventado.
+
+<details>
+<summary>Cards dinâmicos (serviços externos — podem ficar indisponíveis)</summary>
+
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Thiizord&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=39FF14&icon_color=9D4EDD&text_color=E6E6E6&ring_color=FF2E88" alt="GitHub stats — Thiizord"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiizord&layout=compact&hide_border=true&bg_color=0D0D12&title_color=39FF14&text_color=E6E6E6" alt="Top languages — Thiizord"/>
@@ -92,6 +110,8 @@ thiizord@arcade:~$ git status
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Thiizord&hide_border=true&background=0D0D12&ring=FF2E88&fire=FF2E88&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=A0A0B5" alt="GitHub streak — Thiizord"/>
 </div>
+
+</details>
 
 ---
 
