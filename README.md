@@ -103,11 +103,6 @@ thiizord@arcade:~$ git status
 <summary>Cards dinâmicos (serviços externos — podem ficar indisponíveis)</summary>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Thiizord&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=39FF14&icon_color=9D4EDD&text_color=E6E6E6&ring_color=FF2E88" alt="GitHub stats — Thiizord"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiizord&layout=compact&hide_border=true&bg_color=0D0D12&title_color=39FF14&text_color=E6E6E6" alt="Top languages — Thiizord"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Thiizord&hide_border=true&background=0D0D12&ring=FF2E88&fire=FF2E88&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=A0A0B5" alt="GitHub streak — Thiizord"/>
 </div>
 
@@ -131,22 +126,22 @@ thiizord@arcade:~$ git status
 
 <div align="center">
   <a href="https://github.com/Thiizord/Planner-guild-run">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiizord&repo=Planner-guild-run&hide_border=true&bg_color=0D0D12&title_color=00E5FF&icon_color=FF2E88&text_color=E6E6E6" alt="Quest: Planner-guild-run"/>
+    <img src="https://img.shields.io/badge/Planner--guild--run-00E5FF?style=for-the-badge&labelColor=0D0D12" alt="Quest: Planner-guild-run"/>
   </a>
   <a href="https://github.com/Thiizord/repo-alura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiizord&repo=repo-alura&hide_border=true&bg_color=0D0D12&title_color=00E5FF&icon_color=FF2E88&text_color=E6E6E6" alt="Quest: repo-alura"/>
+    <img src="https://img.shields.io/badge/repo--alura-00E5FF?style=for-the-badge&labelColor=0D0D12" alt="Quest: repo-alura"/>
   </a>
   <a href="https://github.com/Thiizord/Repo-Landingpage-Viviane">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiizord&repo=Repo-Landingpage-Viviane&hide_border=true&bg_color=0D0D12&title_color=00E5FF&icon_color=FF2E88&text_color=E6E6E6" alt="Quest: Repo-Landingpage-Viviane"/>
+    <img src="https://img.shields.io/badge/Repo--Landingpage--Viviane-00E5FF?style=for-the-badge&labelColor=0D0D12" alt="Quest: Repo-Landingpage-Viviane"/>
   </a>
   <a href="https://github.com/Thiizord/repo-pizzaria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiizord&repo=repo-pizzaria&hide_border=true&bg_color=0D0D12&title_color=00E5FF&icon_color=FF2E88&text_color=E6E6E6" alt="Quest: repo-pizzaria"/>
+    <img src="https://img.shields.io/badge/repo--pizzaria-00E5FF?style=for-the-badge&labelColor=0D0D12" alt="Quest: repo-pizzaria"/>
   </a>
   <a href="https://github.com/Thiizord/repo-sealworld">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiizord&repo=repo-sealworld&hide_border=true&bg_color=0D0D12&title_color=00E5FF&icon_color=FF2E88&text_color=E6E6E6" alt="Quest: repo-sealworld"/>
+    <img src="https://img.shields.io/badge/repo--sealworld-00E5FF?style=for-the-badge&labelColor=0D0D12" alt="Quest: repo-sealworld"/>
   </a>
   <a href="https://github.com/Thiizord/QA-testes-hemonorte">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thiizord&repo=QA-testes-hemonorte&hide_border=true&bg_color=0D0D12&title_color=00E5FF&icon_color=FF2E88&text_color=E6E6E6" alt="Quest: QA-testes-hemonorte"/>
+    <img src="https://img.shields.io/badge/QA--testes--hemonorte-00E5FF?style=for-the-badge&labelColor=0D0D12" alt="Quest: QA-testes-hemonorte"/>
   </a>
 </div>
 
